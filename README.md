@@ -8,7 +8,7 @@ PPE detection using Yolov8
 4. Assessing the results using object detection metrics
 ### [PPE dataset](https://universe.roboflow.com/team31/ppe-detection-83wpd/dataset/2#) [Roboflow](https://universe.roboflow.com/)
 
-## Results
+## Validation during the training
 <!-- ![image](images/val_batch0_labels.jpg) -->
 <div align="center">
   <img src="./images/val_batch0_labels.jpg" height="600">
@@ -18,3 +18,12 @@ PPE detection using Yolov8
 </p>
 
 
+## Prediction results on the customized dataset
+<!-- ![image](images/val_batch0_labels.jpg) -->
+<div align="center">
+  <img src="./images/predic1.jpg" height="600">
+  <img src="./images/predic2.jpg" height="600">
+</div>
+<p align="center">
+  Figure 1: Prediction from the test dataset
+</p>
