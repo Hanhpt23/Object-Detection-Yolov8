@@ -7,6 +7,7 @@ PPE detection using Yolov8
 3. Train Yolov8 on a customized dataset
 4. Assessing the results using object detection metrics
 
+## Resutl
 <!-- ![image](images/val_batch0_labels.jpg) -->
 <div align="center">
   <img src="./images/val_batch0_labels.jpg" height="600">
