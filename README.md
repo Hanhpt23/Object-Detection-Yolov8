@@ -9,7 +9,7 @@ PPE detection using Yolov8
 
 <!-- ![image](images/val_batch0_labels.jpg) -->
 <div align="center">
-  <img src="./images/val_batch0_labels.jpg" height="400">
+  <img src="./images/val_batch0_labels.jpg" height="600">
 </div>
 <p align="center">
   Figure 1: Prediction from the model on the [PPE dataset](https://universe.roboflow.com/team31/ppe-detection-83wpd/dataset/2#)
