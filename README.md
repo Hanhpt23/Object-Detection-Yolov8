@@ -25,5 +25,5 @@ PPE detection using Yolov8
   <img src="./images/predic2.jpg" height="600">
 </div>
 <p align="center">
-  Figure 1: Prediction from the test dataset
+  Figure 2: Prediction from the test dataset
 </p>
