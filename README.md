@@ -6,7 +6,7 @@ PPE detection using Yolov8
 2. Using a pre-trained model to predict objects in a given image
 3. Train Yolov8 on a customized dataset
 4. Assessing the results using object detection metrics
-[PPE dataset](https://universe.roboflow.com/team31/ppe-detection-83wpd/dataset/2#) [Roboflow](https://universe.roboflow.com/)
+### [PPE dataset](https://universe.roboflow.com/team31/ppe-detection-83wpd/dataset/2#) [Roboflow](https://universe.roboflow.com/)
 
 ## Results
 <!-- ![image](images/val_batch0_labels.jpg) -->
